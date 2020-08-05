@@ -1,5 +1,5 @@
 module OmniAuth
   module Facebook
-    VERSION = '5.0.1'
+    VERSION = '5.0.22'
   end
 end
